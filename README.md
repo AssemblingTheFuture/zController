@@ -60,11 +60,7 @@ with the one that you defined previously. In this case, n = 1
 
 ![Example of Electronic Circuit](/Diagrams/Circuit.png)
 
-6. See the results of the experiment
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1pSmtjJ0wNU9kz5wxUVHuIbAvB9ik3ES_/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[See the results of the experiment](https://drive.google.com/file/d/1pSmtjJ0wNU9kz5wxUVHuIbAvB9ik3ES_/preview "Experiment")
 
 ## We hope you can enjoy this material. Please, feel free to use it or update it as your needs demand
 
