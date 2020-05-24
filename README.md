@@ -51,7 +51,7 @@ with the one that you defined previously. In this case, n = 1
 
 ```cpp
   for (float r=0; r<=0.75*PI; r=r+0.01) {
-    R[1][0]=pow(-1,n)*((pow(r,3)-(2*pow(r,2)))*(cos(r)+sin(r)));
+    R[0][0]=pow(-1,n)*((pow(r,3)-(2*pow(r,2)))*(cos(r)+sin(r)));
     c.algorithm((double*) R);
   }
 ```
@@ -59,3 +59,14 @@ with the one that you defined previously. In this case, n = 1
 5. Connect your circuit to your Arduino microcontroller. As an example, a DC motor was connected mechanically to a 10kΩ (see schematics below)
 
 ![Example of Electronic Circuit](/Diagrams/Circuit.png)
+
+6. See the results of the experiment
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1pSmtjJ0wNU9kz5wxUVHuIbAvB9ik3ES_/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+## We hope you can enjoy this material. Please, feel free to use it or update it as your needs demand
+
+### Thank you!
+## **Z Dynamics Team**
