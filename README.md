@@ -58,4 +58,4 @@ with the one that you defined previously. In this case, n = 1
 
 5. Connect your circuit to your Arduino microcontroller. As an example, a DC motor was connected mechanically to a 10kΩ (see schematics below)
 
-![Example of Electronic Circuit][/Diagrams/Circuit.png]
+![Example of Electronic Circuit](/Diagrams/Circuit.png)
